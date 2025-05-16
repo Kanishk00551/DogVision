@@ -11,22 +11,6 @@ DogVision uses a custom CNN as well as transfer learning with pre-trained models
 
 ---
 
-## 📁 Project Structure
-
-```
-DogVision/
-├── data/                   # Dataset (not included in repo due to size)
-├── notebooks/              # Jupyter notebooks for training and experiments
-├── models/                 # Saved models (if any)
-├── utils/                  # Helper functions (data loaders, visualization, etc.)
-├── results/                # Output plots and metrics
-├── requirements.txt        # Python dependencies
-├── README.md               # Project documentation
-└── train.py                # Training script
-```
-
----
-
 ## 🧠 Techniques & Tools Used
 
 * **Python**
