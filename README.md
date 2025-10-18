@@ -1,3 +1,6 @@
+<img width="488" height="813" alt="image" src="https://github.com/user-attachments/assets/14b2f77b-9a58-4b2d-9861-ff5b41e5b792" />
+<img width="439" height="182" alt="image" src="https://github.com/user-attachments/assets/3e2006ed-b0d4-4fd6-ae51-af98b6597476" />
+
 
 # 🐶 DogVision - Dog Breed Classification using CNN
 
